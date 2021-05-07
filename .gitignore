@@ -130,3 +130,11 @@ dmypy.json
 
 # ignore data folder
 data/
+
+# deprecated examples and assignments
+.code_review.py
+.code_review_copy.py
+.Dockerfile
+.helper_functions_og.py
+.module_example.py
+.module_2_scratch.py
