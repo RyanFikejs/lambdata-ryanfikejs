@@ -132,9 +132,9 @@ dmypy.json
 data/
 
 # deprecated examples and assignments
-.code_review.py
-.code_review_copy.py
-.Dockerfile
-.helper_functions_og.py
-.module_example.py
-.module_2_scratch.py
+lambdata/code_review.py
+lambdata/code_review_copy.py
+lambdata/Dockerfile
+lambdata/helper_functions_og.py
+lambdata/module_example.py
+lambdata/module_2_scratch.py
